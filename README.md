@@ -62,7 +62,7 @@ git clone https://github.com/anhtuanatc/TopDownFusionTest
 * Press **Play** in Unity Editor → input name and select color → click **Start**
 * To test multiplayer:
 
-  * Open a **second instance** (File → Build & Run)
+  * Open a **second instance** (File → Build & Run) // or use my packaged (.\TopDownFusionTest\Packaged)
   * Join the same session
   * Each player will have a different name and color
 
