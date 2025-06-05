@@ -118,7 +118,7 @@ Assets/
 
 ## 📩 Author
 
-Created for a Unity Developer Test.
+Created for a Unity Developer Test.  
 **Name**: Kieu Anh Tuan  
 **Email**: [tuanka1904@gmail.com.com](mailto:tuanka1904@gmail.com.com)  
 **GitHub**: [github.com/anhtuanatc](https://github.com/anhtuanatc)  
